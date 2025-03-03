@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Palette",
+  "slug": "palette",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

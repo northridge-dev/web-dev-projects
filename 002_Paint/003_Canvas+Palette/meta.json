@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Canvas + Palette",
+  "slug": "canvas-palette",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
