@@ -1,0 +1,14 @@
+#canvas {
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+#draw-form {
+  display: flex;
+  flex-direction: column;
+  content-align: space-between;
+}
+
+.padding {
+  padding: 0.25rem;
+}

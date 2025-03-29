@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "HTML5 Canvas",
+  "slug": "html5-canvas",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
