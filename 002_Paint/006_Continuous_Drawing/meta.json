@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "HTML5 Canvas: Continuous Drawing",
+  "slug": "canvas-continous-drawing",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
