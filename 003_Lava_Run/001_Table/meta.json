@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Tables",
+  "slug": "tables",
+  "language": "html",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
