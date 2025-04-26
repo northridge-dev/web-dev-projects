@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Arrow Functions",
+  "slug": "arrow-functions",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["multiply"]
+}

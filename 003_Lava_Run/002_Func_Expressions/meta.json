@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Function Expressions",
+  "slug": "function-expressions",
+  "language": "javascript",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
