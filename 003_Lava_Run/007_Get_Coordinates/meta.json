@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Getting Map Coordinates",
+  "slug": "getting-map-coordinates",
+  "language": "javascript",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

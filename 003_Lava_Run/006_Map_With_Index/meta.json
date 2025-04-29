@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Getting the Array Index using Array.map",
+  "slug": "array-map-index",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["original", "result"]
+}
