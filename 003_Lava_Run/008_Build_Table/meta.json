@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Build a Table from a Map",
+  "slug": "build-table",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
