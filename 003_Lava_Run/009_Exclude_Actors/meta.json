@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Exclude Actors",
+  "slug": "exclude-actors",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
