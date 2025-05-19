@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Actor Layer Part 1",
+  "slug": "actor-layer-1",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
